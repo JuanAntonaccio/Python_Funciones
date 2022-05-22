@@ -1,4 +1,4 @@
-rapid = lambda texto: texto[0:-1]
+
 
 
 # From this line above, plese do not change code below
